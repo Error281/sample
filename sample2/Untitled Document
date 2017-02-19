@@ -2,5 +2,8 @@ git init
 git remote add origint http
 git status
 git config list
-git push origin mater
+git add filename
+git commit -m ""
+git push origin master
+git diff
 
